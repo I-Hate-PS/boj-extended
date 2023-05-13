@@ -18,5 +18,5 @@
 |---|---|
 |[김규형](https://github.com/)||
 |[소부승](https://github.com/bootkorea)||
-|[정예성](https://github.com/)||
+|[정예성](https://github.com/jys-jeong)||
 |[황예찬](https://github.com/)||
